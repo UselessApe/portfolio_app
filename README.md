@@ -1,16 +1,12 @@
 # portfolioapp
 
-A new Flutter project.
+A Flutter project which shows projects and provide the possibilty to share projects. The UI is pretty simple since it only contains cards with a preview of fake data for:
 
-## Getting Started
+- Name of the project
+- Project Year
+- Project Image
+- Project Description
 
-This project is a starting point for a Flutter application.
+SIDENOTE: All these projects shown in the application are not real projects and this application was only for training purposes.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You have the option to share your projects thanks to a FAB. If you click a project card you get navigated to a project detail page and of course you have the option to navigate back.
